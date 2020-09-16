@@ -14,6 +14,12 @@ The application injects a dummy root of trust (ROT) if true random number genera
 
 **NOTE:** Currently this application defines settings only for K66F board. Please refer to [Storage Configuration](https://os.mbed.com/docs/mbed-os/latest/reference/storage.html) from Mbed OS documentation as the DeviceKey requires KVStore to be configured.
 
+## License and contributions
+
+The software is provided under Apache-2.0 license. Contributions to this project are accepted under the same license. Please see [contributing.md](./CONTRIBUTING.md) for more info.
+
+This project contains code from other projects. The original license text is included in those source files. They must comply with our [license guide](https://os.mbed.com/docs/mbed-os/v6.2/contributing/license.html)
+
 ##  Getting started ##
 
  1. Import the example.
